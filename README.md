@@ -11,7 +11,7 @@ This webpage contains all the lecture slides and notes of the ACM Summer School 
 - [Notes](https://arkadyuti30.github.io/Day%202/Day%202%20Notes.pdf)
 
 ## Day 3
-- [Slide - MAC (Message Authentication Codes](https://arkadyuti30.github.io/Day 3/MAC-talk.pptx)
+- [Slide - MAC (Message Authentication Codes)](https://arkadyuti30.github.io/Day 3/MAC-talk.pptx)
 - [Slide - Hash Function](https://arkadyuti30.github.io/Day%203/hash-function.pptx)
 - [Notes](https://arkadyuti30.github.io/Day 3/Day 3 Notes.pdf)
 
