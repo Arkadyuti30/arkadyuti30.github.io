@@ -2,5 +2,5 @@
 
 This webpage contains all the lecture slides and notes of the ACM Summer School.
 
-##Day 1
--[Slide] (arkadyuti30.github.io/Day 1/acm-lecture 2018.pdf)
+## Day 1
+- [Slide] (arkadyuti30.github.io/Day 1/acm-lecture 2018.pdf)
