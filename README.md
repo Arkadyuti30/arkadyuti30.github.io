@@ -1,16 +1,19 @@
 #  **ACM Summer School On Fundamentals for Cryptology Research At ISI, Kolkata (4th June to 22nd June, 2018)**
 
-This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals of Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
+This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals for Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
 
 ## Day 1 - Introduction to Cryptology, Introductory Talks on Sorting & Searching
 - [Slide](https://arkadyuti30.github.io/Day%201/acm-lecture%202018.pdf)
 - [Notes](https://arkadyuti30.github.io/Day%201/Day%201%20Notes.pdf)
 
 ## Day 2
-- [Slide](https://arkadyuti30.github.io/Day%202/Crypto.pdf)
+- [Slide - Understanding Symmetric Key Cryptography](https://arkadyuti30.github.io/Day%202/Crypto.pdf)
 - [Notes](https://arkadyuti30.github.io/Day%202/Day%202%20Notes.pdf)
 
 ## Day 3
+- [Slide - MAC (Message Authentication Codes](https://arkadyuti30.github.io/Day 3/MAC-talk.pptx)
+- [Slide - Hash Function](https://arkadyuti30.github.io/Day%203/hash-function.pptx)
+- [Notes](https://arkadyuti30.github.io/Day 3/Day 3 Notes.pdf)
 
 ## Day 4
 
