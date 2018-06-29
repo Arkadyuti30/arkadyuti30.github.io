@@ -1,4 +1,4 @@
-#  **ACM Summer School On Fundamentals for Cryptology Research At ISI, Kolkata (4th June to 22nd June, 2018)**
+#  **Fundamentals for Cryptology Research At ISI, Kolkata (4th June to 22nd June, 2018)**
 
 This webpage contains all the lecture slides and notes of the ACM Summer School on Fundamentals for Cryptology Research held at Indian Statistical Institute, Kolkata from 4th June to 22nd June, 2018. 
 
